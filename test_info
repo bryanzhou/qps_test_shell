@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 5 5 curl "http://www.baidu.com/"
-=======
-4 5 curl -s \"http://www.baidu.com/\"
->>>>>>> d92969c56c323ea5781006d2dbcc22cc74d80f26

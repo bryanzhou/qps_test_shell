@@ -4,6 +4,7 @@
 rm -rf test_output
 rm -rf error 
 
+[[ ! -d ./tmp_log ]] && mkdir tmp_log
 test_case_count=1
 
 while read thread_num test_times curl
