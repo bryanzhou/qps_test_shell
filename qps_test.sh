@@ -11,6 +11,6 @@ for(( i=0 ; i < test_times ;i++ ))
 do
         { time ans=`eval $upload` ; } 1>>./tmp_log/out.log 2>> ./tmp_log/time.out 
 	ans=$ans""
-	echo $ans >> out.log
+	echo $ans >> ./tmp_log/out.log
 	#echo >> out.log
 done
