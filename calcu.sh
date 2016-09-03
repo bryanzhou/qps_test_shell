@@ -11,14 +11,8 @@ large_time_line1=100
 large_time_line2=200
 
 thread=$1
-<<<<<<< HEAD
 duration=$2
 flag=0
-=======
-
-flag=0
-
->>>>>>> d92969c56c323ea5781006d2dbcc22cc74d80f26
 while read info tt
 do
 	#echo $info $tt
@@ -48,18 +42,13 @@ do
 		let time_count=time_count+t
 		let num_count=num_count+1	
 	fi
-done < time.out
+done < ./tmp_log/time.out
 echo count: $time_count
 echo times: $num_count
 echo max: $max
 
 let avg=time_count/num_count
-<<<<<<< HEAD
 qps=`echo $num_count $duration | awk '{print ($1*1000000000)/$2}'`
-=======
-let qps=thread*1000
-let qps=qps/avg
->>>>>>> d92969c56c323ea5781006d2dbcc22cc74d80f26
 
 echo avg: $avg
 echo qps: $qps

@@ -13,5 +13,5 @@ do
 		echo $line >>error
 	fi
 
-done < out.log
+done < ./tmp_log/out.log
 echo error total $error_count
