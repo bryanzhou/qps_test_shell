@@ -1,10 +1,11 @@
 #!/bin/bash
 thread_id=$1
 test_times=$2
-upload=$3
-echo $upload
-
+upload=$4
+#echo $upload
+total_thread=$3
 echo thread $1 started
+
 
 for(( i=0 ; i < test_times ;i++ ))
 do

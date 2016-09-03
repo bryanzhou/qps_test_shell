@@ -1,10 +1,10 @@
-执行curl curl -s "http://www.baidu.com/"
-并发数 4   总发送量 20
-count: 1155
-times: 20
-max: 290
-avg: 57
-qps: 70
-large then 50 total: 5
-large then 100 total: 3
-large then 200 total: 3
+执行curl curl "http://www.baidu.com/"
+并发数 5   总发送量 25
+count: 233
+times: 25
+max: 13
+avg: 9
+qps: 420.477
+large then 50 total: 0
+large then 100 total: 0
+large then 200 total: 0

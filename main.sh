@@ -17,25 +17,20 @@ do
 
 	echo "starting"
 
+	start_time=`date +%s%N`
+
 	for(( i=0;i < thread_num ; i++ ))
 	do
-		sh qps_test.sh  $i $test_times "$curl" &  
+		sh qps_test.sh  $i $test_times $thread_num "$curl" &  
 
 	done
 
-	sleep 1
+	wait
 
+	end_time=`date +%s%N`
+	let duration=end_time-start_time
 
 	let test_count=thread_num*test_times
-	while [[ 1 -gt 0 ]]
-	do
-		line_count=`wc -l out.log | awk '{print $1}'`
-		if [[ $line_count -ge $test_count ]]
-		then
-		break
-		fi
-		sleep 3
-	done
 
 	echo "执行curl $curl" >> test_output
 	echo "并发数 $thread_num   总发送量 $test_count" >> test_output
@@ -45,8 +40,8 @@ do
 	#sh check.sh >> test_output
 
 	echo "start caclu"
-
-	sh calcu.sh $thread_num >> test_output
+	echo $duration
+	sh calcu.sh $thread_num $duration >> test_output
 
 
 	echo "test case $test_case_count finished"
