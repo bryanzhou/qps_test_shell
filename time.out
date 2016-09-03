@@ -1,258 +1,0 @@
-<<<<<<< HEAD
-     %%  TToottaall        %%  RReceecievievde d%  %X fXefredr d  A vAevreargaeg eS pSepeede d    T iTmiem e      T iTm iem  e%    T o    T iTmiem e  C uCrurrernetn
-t 
-                                                                 DDllooaadd    UUppllooaad  d  T o tTaolt a l  S p eSnpte n t    L e fLte f tS p eSepde
-e d 
-%  0T o t a  l  0        %  0R e c e i0v e d   %  0X f e r d0    A v e r0a g e   S p e0e     %    T0o t-a-l : - - %: -R-e c-e-i:v-e-d: -%- tXfaelr  d    %A vReercaegiev ed % 0X fSepre e d  0    T i m e0        T0i m e      0    T i m e  0   d  C u  r r0e n-t-
-: - - : - -   - - : - - : - -   - - : - - : - -           0    Dload  - -:U-p-l:o-a-d        0d10  3A v er1a0g3e   S2p3e8e1d    1 0T3i m e2 3 8 1  T i m e0          T0i m e  4 2C9ukr r e n t 
-  0   - - : - - : - -    - - : - - : - -   - - : - - : - -   1 1 6D2lko
-ad  Upload   Total   Spent    Left  T iSmpee e d 
- Time    0      T i m0e     C u0r r e n t 
-0         0           0            0             0   - - : - - : - -D l-o-a:d- -
- real	0m0.010s
-:user	0m0.001s
-U-sys	0m0.006s
--p l-o-a:d- - : -T-o t a l    0 Spent    Left  Speed
-10 3  0  2 3 8 1  0  1 0 3  0  2 3 8 1  0      0  0        0  0    3 3 8 k  0          0  0 ----::---T:-o- t-a-l: - - :S-p-e n-t- : - - :L-e-f t     S p0e2ed3
-81    11000 33  -  : 2 3 8 021  3  180 31      203 8 1 0          0   0 0         04  5 7 0k3 0 1 k             0 00  ----::- - -: -- -  :--- :0-- - : - -- --:--: - - :0---: -  4-6 -5-k:-
---:--:--:-- -- -1:1-6-2:k-
-- --:----: ---- : - - : -0- --:--:--  581k
-103  2381  103  2381    0     0   281k      0 --:--:-- --:--:-- --:--:--  387k
-
-real	0m0.013s
-user	0m0.001s
-sys	0m0.007s
-
-real	0m0.012s
-user	0m0.003s
-sys	0m0.003s
-
-real	0m0.012s
-user	0m0.002s
-sys	0m0.006s
-
-real	0m0.012s
-user	0m0.000s
-sys	0m0.006s
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0103  2381  103  2381    0     0   569k      0 --:--:-- --:-- : -%-  T-o-t:-a-l: - -   2%3 2R5ek
-ceived % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Le f t%   TSopteaeld 
-    %  0R e c e i v0e d   %  0X f e r d  0  A v e r0age Speed     T i m e0     %   TToi t a l   0     %   R  e  0%c e iTvoet-da-l  :%   X -f%- e:r-d-R e c eAiv-veerda g%e  XSfpeeredd    T iAmveeragmee  S p  e eTdi m e T i mCeu r r e nTti
-m e           T i m e     C u r r e n t 
-                          D l o a d     U p l o a d       T o t a lD l o aSdp e nUtp l o a dL e f tT ota lS p e eSdp
-en t  0      L e f0t    S p e0e d 
-  
-real	0m0.008s
-user	0m0.002s
-  sys	0m0.003s
-0  - : -0- : - -   -0 -:--:--         0Time   0    1  T 0 3i0   m e2  3  8C01     u r 100 3 r   e0  n t 
-    0             0             0   - - : - - : - -   - - : - - : -D-l oa-d- : -U-p:l-o-a d       T0otal   Spent  1 0 3L e f2t3 8 1S p e1e0d3
-  2 3 801         00         00       5 005 k      0      0   -0- : - - : - -0  - - : - - :0- -- --:--:--:--:-- -- -1:1-6-2:k-
--  - - : - -0: - -        0  0--:--:-- --:--:-- 1-0-:3-- : 22338811    1 0 30    2 3 8 10       501 4 k      0      04 3-8-k: - - : - -  0- --:--:--:--:-- -- --:--:--:--:-- -1 1-6-2:k--
-:--  775k-
--  
-real	0m0.009s
-user	0m0.000s
- sys	0m0.007s
-  0103  2381  103  2381    0     0   368k      0 --:--:-- --:--:-- --:--:--  581k
-
-real	0m0.009s
-user	0m0.001s
-sys	0m0.006s
-
-real	0m0.010s
-user	0m0.002s
-sys	0m0.004s
-
-real	0m0.010s
-user	0m0.002s
-sys	0m0.005s
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0103  2381  103  2381    0     0   570k      0 --:--:-- --:--:-- --:--:-- 2325k
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Spee
-real	0m0.008s
-user	0m0.002s
-dsys	0m0.002s
-
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Curren t 
-%   T o t a l         %   R e c e i v e  d   %   X f e r d     A vDelroaagde   SUppeleoda d    T iTmo e  %  T o taTli m e    %   R eceiTviemde  %  CXuferrredn t 
-A  v e r a  g e    S p e e d      T i  m e        T im e          DlToiadm e U p loCaudrr  e nTtot
-a l       S p e n t        L  1e0f3     2 3 8 1     1 0 3     2 3 8 1  D l o a0d     U p l0o a d  6 0 5Tko t a l      0S p-e-n:t- - : - -L e-f-t: -- :S-p-e e-d-
-:--:-- 23 2 50k 
-    0    0   t a l0      S p0e n t     0    L e f tt    SSppeeeedd
-
-  0    0     0      0  0      0    0      0  0      0    0      0  
-real	0m0.008s
-user	0m0.002s
-    sys	0m0.002s
-0      0     0   - - :0- --:--- :----::----: ---- :----:-:--:-- -- - : - - :0--     0103  2381  103  2318013     2 308 1     1 003     2435861k        0    0   - -0: - - :4-7-5 k- - : - - : -0-  ----:: -0--:--:---  -1-1:6-2-k:
---  - - : - - :0 ---- :1-1-6:2-k-
- --:--:-- --:--:--     0103  2381  103  2381    0     0   422k      0 --:--:-- --:--:-- --:--:--  775k
-
-real	0m0.009s
-user	0m0.004s
-sys	0m0.003s
-
-real	0m0.009s
-user	0m0.003s
-sys	0m0.005s
-
-real	0m0.009s
-user	0m0.000s
-sys	0m0.006s
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0103  2381  103  2381    0     0   536k      0 --:--:-- --:--:-- --:--:-- 1162k
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
-real	0m0.008s
-user	0m0.002s
-sys	0m0.002s
-103  2381  103  2381    0     0     5%5 2Tk o t a l    0  - -%: -R-e:c-e-i v-e-d:-- :%- -X f-e-r:d- - :A-v-e r1a1g6e2k 
-Speed   Time    Time     Time  Current
-     %   T o t a l            % %    TR o t a l         %   R e c e iDvleoda d%   XUfpelroda d  A v eTroatgael  S p eSepde n t  T i m eLe f t    
-real	0m0.008s
-user	0m0.003s
-SpeeTdsys	0m0.002s
-
-im e  0        T i0m e     C0u r r e n t0
-        0           0             0             0   - - : - - : - -D l-o-a:d- - :U-p-l o-a-d: - - :T-o-taelc e i vSe d  p%e n t X f0erd  Ave1r0a3g e  2S3p8e1e d  1 0 3    T 2i3 8m1e L   e f0    t     T0i   m S5e4p2 ke e   d      0T 
--i-:m-e- : - -0  -C-u:r- -r:e n t 
-  0       0           0        0           0             0        - -   -0- : -D-l:o-a-d -1-1:6 2 k-
-U-p:l-o-a d- - : -T-o:t-a-l  - - :S-p-e:n-t-        L e0ft  Speed
-  100 3     2 308 1     100 3     2 308 1      0  0         0  0  5 0 9 k       0  0   - - : -0- :----: ----::---- :----: ----::---- :----: -1-1:6-2-k 
-    0103  2381  103  2381    0     0   445k      0 --:--:-- --:--:-- --:--:-- 
-real	0m0.009s
-user	0m0.001s
- sys	0m0.006s
-775k
-
-real	0m0.008s
-user	0m0.003s
-sys	0m0.004s
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-real	0m0.009s
-user	0m0.000s
-
-sys	0m0.006s
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0103  2381  103  2381    0     0   598k      0 --:--:-- --:--:-- --:--:-- 2325k
-  % Total    % Received % Xferd  Average Speed   Time    Time     Tim
-real	0m0.008s
-user	0m0.000s
-esys	0m0.005s
-  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0 1 0 3    02 3 8 1  0  1 0 3    02 3 8 1  0      0    0      0      05 0 1 k      0   - -0: ----::---- :---- :----:-:-- --:--:-- --:--:-- - : - -  01162k
-  % Total    % Rece i v%e dT o%t aXlf
-real	0m0.009s
-user	0m0.002s
-esys	0m0.003s
-r d     %A vReceievreadg e%  SXpfeeerdd     ATviemrea g e   STpiemeed       T iTmiem e     CTu1riremnet 
-        T i m e     C u r r e n t 
-                                D l o a d     U p     0 l3o a d2 3 8 1T o t1a0l3     2S3p8e1n t      0  L e f t  0  S p e5e7d6
-k      0    0   - -0: - - : -0-  - - : - -0: - -   -0- : - - : -0-   1 1 6 2 k0
-        D l0o a-d- : -U-p:l-o-a d- - : -T-o:t-a-l  - - :S-p-e:n-t-        L e0ft  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0110033    22
-real	0m0.008s
-user	0m0.002s
-338sys	0m0.004s
-18 1  1 0130 3  2 328318 1      0  0        0  0    5 4581k5 k          0  0- --:--:--:--:-- -- --:--:--:--:-- -- --:--:--:--:-- -1 116126k2
-k
-
-real	0m0.009s
-user	0m0.003s
-sys	0m0.004s
-
-real	0m0.009s
-user	0m0.004s
-sys	0m0.003s
-=======
-
-real	0m0.023s
-user	0m0.003s
-sys	0m0.002s
-
-real	0m0.028s
-user	0m0.002s
-sys	0m0.003s
-
-real	0m0.017s
-user	0m0.003s
-sys	0m0.002s
-
-real	0m0.206s
-user	0m0.004s
-sys	0m0.001s
-
-real	0m0.209s
-user	0m0.002s
-sys	0m0.004s
-
-real	0m0.014s
-user	0m0.001s
-sys	0m0.004s
-
-real	0m0.019s
-user	0m0.004s
-sys	0m0.001s
-
-real	0m0.022s
-user	0m0.003s
-sys	0m0.005s
-
-real	0m0.290s
-user	0m0.005s
-sys	0m0.001s
-
-real	0m0.055s
-user	0m0.005s
-sys	0m0.001s
-
-real	0m0.014s
-user	0m0.004s
-sys	0m0.001s
-
-real	0m0.015s
-user	0m0.003s
-sys	0m0.002s
-
-real	0m0.016s
-user	0m0.002s
-sys	0m0.003s
-
-real	0m0.016s
-user	0m0.001s
-sys	0m0.003s
-
-real	0m0.041s
-user	0m0.003s
-sys	0m0.002s
-
-real	0m0.033s
-user	0m0.002s
-sys	0m0.003s
-
-real	0m0.095s
-user	0m0.003s
-sys	0m0.002s
-
-real	0m0.013s
-user	0m0.005s
-sys	0m0.001s
-
-real	0m0.015s
-user	0m0.003s
-sys	0m0.003s
-
-real	0m0.014s
-user	0m0.003s
-sys	0m0.002s
->>>>>>> d92969c56c323ea5781006d2dbcc22cc74d80f26
