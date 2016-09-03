@@ -1,3 +1,4 @@
+<<<<<<< HEAD
      %%  TToottaall        %%  RReceecievievde d%  %X fXefredr d  A vAevreargaeg eS pSepeede d    T iTmiem e      T iTm iem  e%    T o    T iTmiem e  C uCrurrernetn
 t 
                                                                  DDllooaadd    UUppllooaad  d  T o tTaolt a l  S p eSnpte n t    L e fLte f tS p eSepde
@@ -173,3 +174,85 @@ sys	0m0.004s
 real	0m0.009s
 user	0m0.004s
 sys	0m0.003s
+=======
+
+real	0m0.023s
+user	0m0.003s
+sys	0m0.002s
+
+real	0m0.028s
+user	0m0.002s
+sys	0m0.003s
+
+real	0m0.017s
+user	0m0.003s
+sys	0m0.002s
+
+real	0m0.206s
+user	0m0.004s
+sys	0m0.001s
+
+real	0m0.209s
+user	0m0.002s
+sys	0m0.004s
+
+real	0m0.014s
+user	0m0.001s
+sys	0m0.004s
+
+real	0m0.019s
+user	0m0.004s
+sys	0m0.001s
+
+real	0m0.022s
+user	0m0.003s
+sys	0m0.005s
+
+real	0m0.290s
+user	0m0.005s
+sys	0m0.001s
+
+real	0m0.055s
+user	0m0.005s
+sys	0m0.001s
+
+real	0m0.014s
+user	0m0.004s
+sys	0m0.001s
+
+real	0m0.015s
+user	0m0.003s
+sys	0m0.002s
+
+real	0m0.016s
+user	0m0.002s
+sys	0m0.003s
+
+real	0m0.016s
+user	0m0.001s
+sys	0m0.003s
+
+real	0m0.041s
+user	0m0.003s
+sys	0m0.002s
+
+real	0m0.033s
+user	0m0.002s
+sys	0m0.003s
+
+real	0m0.095s
+user	0m0.003s
+sys	0m0.002s
+
+real	0m0.013s
+user	0m0.005s
+sys	0m0.001s
+
+real	0m0.015s
+user	0m0.003s
+sys	0m0.003s
+
+real	0m0.014s
+user	0m0.003s
+sys	0m0.002s
+>>>>>>> d92969c56c323ea5781006d2dbcc22cc74d80f26
